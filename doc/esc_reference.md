@@ -2,7 +2,7 @@ General
 -------
 
 - Events:
-  When the player interacts with an object in the game, the object receives an even. Each event executes a series of commands.
+  When the player interacts with an object in the game, the object receives an event. Each event executes a series of commands.
   Events start with the character ":" in the Events file. Example:
 
 :use
